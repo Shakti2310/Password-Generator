@@ -33,8 +33,8 @@ export default function App() {
 
   return (
     <div className="h-screen bg-black flex justify-center items-center">
-      <div className="w-[70%] max-w-xl h-[26%] md:h-[17%] bg-gray-600 rounded-2xl">
-        <div className="h-[40%] md:h-[70%] flex justify-center items-center">
+      <div className="w-[70%] max-w-xl h-[25%] md:h-[17%] bg-gray-600 rounded-2xl">
+        <div className="h-[40%] mt-2 md:mt-0 md:h-[70%] flex justify-center items-center">
           <input
             className="bg-white w-[80%] h-[60%] md:h-[65%] outline-none rounded-l-2xl md:text-xl overflow-auto pl-3 pr-3"
             type="text"
